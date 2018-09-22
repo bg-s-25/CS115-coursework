@@ -1,2 +1,2 @@
 # CS115-coursework
-Intro to Computer Science coursework
+Some of my Python code written for CS115 Intro to Computer Science
